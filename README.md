@@ -19,10 +19,10 @@ The notebooks are used to explore the data set and try various modeling techniqu
 	- Extract the `.zip` file to `exploring-nasas-turbofan-data-set/data/`
 	- You should now have all the data in `exploring-nasas-turbofan-data-set/data/CMAPSSData/`
 - use the requirements.txt to recreate the Python environment used to run these notebooks. I prefer using Anaconda, but any Python environment manager will do.
-- Activate the environment the environment from your preferred command line tool, navigate to `<folder_name>` and start your local notebook server by typing `jupyter notebook`
+- Activate the environment the environment from your preferred command line tool, navigate to `exploring-nasas-turbofan-data-set` and start your local notebook server by typing `jupyter notebook`
 - Have fun following along with the notebooks!
 
 ## References
-[1] link pending...
-[2] A. Saxena, K. Goebel, D. Simon, and N. Eklund, “Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation”, in the Proceedings of the Ist International Conference on Prognostics and Health Management (PHM08), Denver CO, Oct 2008.
+[1] link pending...  
+[2] A. Saxena, K. Goebel, D. Simon, and N. Eklund, “Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation”, in the Proceedings of the Ist International Conference on Prognostics and Health Management (PHM08), Denver CO, Oct 2008.  
 [3] data repository: [https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan)
