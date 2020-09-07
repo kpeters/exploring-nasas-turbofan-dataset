@@ -23,6 +23,6 @@ The notebooks are used to explore the data set and try various modeling techniqu
 - Have fun following along with the notebooks!
 
 ## References
-[1] link pending...  
+[1] [blog post series](https://towardsdatascience.com/tagged/exploring-nasa-turbofan)  
 [2] A. Saxena, K. Goebel, D. Simon, and N. Eklund, “Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation”, in the Proceedings of the Ist International Conference on Prognostics and Health Management (PHM08), Denver CO, Oct 2008.  
 [3] data repository: [https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan)
