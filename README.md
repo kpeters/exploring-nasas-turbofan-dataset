@@ -19,7 +19,7 @@ The notebooks are used to explore the dataset and try various modeling technique
 	- Extract the `.zip` file to `exploring-nasas-turbofan-data-set/data/`
 	- You should now have all the data in `exploring-nasas-turbofan-data-set/data/CMAPSSData/`
 - use the requirements.txt to recreate the Python environment used to run these notebooks. I prefer using Anaconda, but any Python environment manager will do.
-- Activate the environment the environment from your preferred command line tool, navigate to `exploring-nasas-turbofan-data-set` and start your local notebook server by typing `jupyter notebook`
+- Activate the environment from your preferred command line tool, navigate to `exploring-nasas-turbofan-data-set` and start your local notebook server by typing `jupyter notebook`
 - Have fun following along with the notebooks!
 
 ## References
